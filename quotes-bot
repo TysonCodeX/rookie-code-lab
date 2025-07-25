@@ -1,0 +1,11 @@
+import random
+
+quotes = [
+    "Believe in yourself!",
+    "You are stronger than you think.",
+    "Never give up. Keep going.",
+    "Your journey is just beginning.",
+]
+
+print("✨ AI Motivational Quote Machine ✨")
+print(random.choice(quotes))
